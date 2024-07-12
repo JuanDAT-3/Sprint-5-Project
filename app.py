@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly_express as px 
 
-vhc= pd.read_csv(r'C:\Users\Usuario\Desktop\Trabajo_aprendizaje\TripleTen\Sprint-5-Project\vehicles_us_cleaned.csv')
+vhc= pd.read_csv(r'vehicles_us_cleaned.csv')
 
 #Despliegue de app
 
